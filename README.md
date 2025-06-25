@@ -11,7 +11,7 @@
 - <b>C</b>
   - [Academic Project](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Python</b>
-  - [Suit and Tie](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Suit and Tie](https://github.com/Gavin-Heaver/Suit-and-Tie)
 - <b>Java</b>
   - [Chess](https://github.com/joshmadakor1/EncrypterPOC)
 
