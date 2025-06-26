@@ -9,7 +9,7 @@
 <h2>Academic Projects</h2>
 
 - <b>C</b>
-  - [Academic Project](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Library](https://github.com/Gavin-Heaver/Library)
 - <b>Python</b>
   - [Suit and Tie](https://github.com/Gavin-Heaver/Suit-and-Tie)
 - <b>Java</b>
