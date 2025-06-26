@@ -1,7 +1,7 @@
 <h1>Gavin Heaver <br/><sub>Undergraduate at the University of Central Florida</sub></h1>
 
 <h2>About Me</h2>
-<b>Hi there! I'm Gavin Heaver, an enthusiastic Computer Science student at the University of Central Florida. With experience and education within Object-Oriented Programming, Cybersecurity, and Algorithm Analysis, I'm building a strong foundation and am eager to apply my skills to real-world challenges</b> 
+<b>Hi there! I'm Gavin Heaver, an enthusiastic Computer Science student at the University of Central Florida. With experience and education within Object-Oriented Programming, Cybersecurity, and Algorithm Analysis, I'm building a strong foundation and am eager to apply my skills to real-world challenges.</b> 
 <br>
 <br>
 <b>I'm always eager for opportunities to enhance my skills and contribute to an energetic and diverse team. Ultimately, I'm driven by the passion to collaborate on impactful projects and turn ambitious ideas into reality.</b>
