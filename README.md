@@ -13,7 +13,7 @@
 - <b>Python</b>
   - [Suit and Tie](https://github.com/Gavin-Heaver/Suit-and-Tie)
 - <b>Java</b>
-  - [Chess](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Rook and Knight](https://github.com/Gavin-Heaver/Rook-and-Knight)
 
 <h2>Personal Projects</h2>
 
