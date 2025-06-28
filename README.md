@@ -21,11 +21,11 @@
 <h2>Personal Projects</h2>
 
 - <b>C</b>
-  - [C Project](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [C Project]() Work in progress
 - <b>Python</b>
-  - [Python Project](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Python Project]() Work in progess
 - <b>Java</b>
-  - [Java Project](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Java Project]() Work in progress
 
 <h2> Certifications</h2>
 
