@@ -14,6 +14,7 @@
   - [Suit and Tie](https://github.com/Gavin-Heaver/Suit-and-Tie)
 - <b>Java</b>
   - [Rook and Knight](https://github.com/Gavin-Heaver/Rook-and-Knight)
+  - [Sports - Interfaces](https://github.com/Gavin-Heaver/Sports-Interfaces)
 
 <h2>Personal Projects</h2>
 
