@@ -10,6 +10,7 @@
 
 - <b>C</b>
   - [Library](https://github.com/Gavin-Heaver/Library)
+  - [Matrix](https://github.com/Gavin-Heaver/Matrix)
 - <b>Python</b>
   - [Suit and Tie](https://github.com/Gavin-Heaver/Suit-and-Tie)
 - <b>Java</b>
