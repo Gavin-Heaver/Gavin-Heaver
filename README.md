@@ -13,6 +13,7 @@
   - [Matrix](https://github.com/Gavin-Heaver/Matrix)
 - <b>Python</b>
   - [Suit and Tie](https://github.com/Gavin-Heaver/Suit-and-Tie)
+  - [Statistics_Showcase](https://github.com/Gavin-Heaver/Statistics-Showcase)
 - <b>Java</b>
   - [Rook and Knight](https://github.com/Gavin-Heaver/Rook-and-Knight)
   - [Sports - Interfaces](https://github.com/Gavin-Heaver/Sports-Interfaces)
