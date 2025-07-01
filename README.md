@@ -6,7 +6,7 @@
 <br>
 <b>I'm always eager for opportunities to enhance my skills and contribute to an energetic and diverse team. Ultimately, I'm driven by the passion to collaborate on impactful projects and turn ambitious ideas into reality.</b>
 
-<h2>Academic Projects</h2>
+<h2>Projects</h2>
 
 - <b>C</b>
   - [Library](https://github.com/Gavin-Heaver/Library)
@@ -18,15 +18,6 @@
 - <b>Java</b>
   - [Rook and Knight](https://github.com/Gavin-Heaver/Rook-and-Knight)
   - [Sports - Interfaces](https://github.com/Gavin-Heaver/Sports-Interfaces)
-
-<h2>Personal Projects</h2>
-
-- <b>C</b>
-  - [C Project]() Work in progress
-- <b>Python</b>
-  - [Python Project]() Work in progess
-- <b>Java</b>
-  - [Java Project]() Work in progress
 
 <h2> Certifications</h2>
 
