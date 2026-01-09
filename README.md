@@ -18,6 +18,7 @@
 - <b>Java</b>
   - [Rook and Knight](https://github.com/Gavin-Heaver/Rook-and-Knight)
   - [Sports - Interfaces](https://github.com/Gavin-Heaver/Sports-Interfaces)
+  - [Greedy Robots](https://github.com/Gavin-Heaver/Greedy-Robots)
 
 <h2> Certifications</h2>
 
