@@ -1,13 +1,17 @@
 <h1>Gavin Heaver <br/><sub>Undergraduate at the University of Central Florida</sub></h1>
 
 <h2>About Me</h2>
-<b>Hi there! I'm Gavin Heaver, an enthusiastic Computer Science student at the University of Central Florida. With experience and education within Object-Oriented Programming, Cybersecurity, and Algorithm Analysis, I'm building a strong foundation and am eager to apply my skills to real-world challenges.</b> 
+<b>Hi there! I'm Gavin Heaver, an enthusiastic Computer Science student at the University of Central Florida. With experience and education within Object-Oriented Programming, Project Management, and Algorithm Analysis, I'm building a strong foundation and am eager to apply my skills to real-world challenges.</b> 
 <br>
 <br>
 <b>I'm always eager for opportunities to enhance my skills and contribute to an energetic and diverse team. Ultimately, I'm driven by the passion to collaborate on impactful projects and turn ambitious ideas into reality.</b>
 
 <h2>Projects</h2>
 
+- <b>Large - Scale Projects</b>
+  - [LAMP Stack - Contact Manager](https://github.com/Gavin-Heaver/LAMP-Stack---Project)
+  - [MERN Stack - UKnighted Dating App](https://github.com/Gavin-Heaver/MERN-Project)
+  - [Mama Duck: Autonomous Object Retrieval](https://github.com/danv22852/mamaDuck)
 - <b>C</b>
   - [Library](https://github.com/Gavin-Heaver/Library)
   - [Matrix](https://github.com/Gavin-Heaver/Matrix)
@@ -25,7 +29,7 @@
 - [SQL Essential Training](https://www.linkedin.com/learning/certificates/242c8a417e246c6f6600f15e7d8b48b3329bdcceecc17435a3c9a38c5f088fdf?u=57691257)
 - [The Agile Samurai Bootcamp](https://www.udemy.com/certificate/UC-633be4f6-0257-4771-9792-38f9aadb72a5/)
 - [HTML, CSS, and JavaScript: Building the Web](https://www.linkedin.com/learning/certificates/84d893af44d52d2fab63b43dbc928cc96c19970cfe2e40a5786aa644def7de78?u=57691257)
-- [Microsoft Power platform Foundations](https://www.linkedin.com/learning/certificates/809e1dfaa713293c028c0aad9faf1e7ab5424bc728032ee187c8d6755590b538?u=57691257)
+- [Microsoft Power Platform Foundations](https://www.linkedin.com/learning/certificates/809e1dfaa713293c028c0aad9faf1e7ab5424bc728032ee187c8d6755590b538?u=57691257)
 
 <h2> Social Media</h2>
 
